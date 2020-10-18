@@ -1,0 +1,21 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+aside, footer, addres, section{display: block;}
+
+/*img, iframe, video, embed{max-width: 100%!important;}*/
+
+body{
+   font-family: 'Open Sans', sans-serif;
+   /*background-color: #FEF7EE;*/
+   overflow-x: hidden;
+}
+p{text-indent: 20px;}
+h2{text-align: center; padding-bottom: 10px;}
+.aboutMe{text-indent: 20px; padding:20px 40px 40px 40px; width: 60%; margin: 0 auto; background-color: #FEF7EE;font-size: 110%;}
+li {list-style-type: none;}
+h3{padding-top: 10px;}
+.contacts{font-weight: 800;}
+a { text-decoration: none; font-weight: 800;} 
